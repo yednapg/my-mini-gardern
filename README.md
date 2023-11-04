@@ -7,8 +7,9 @@ Theme: Understanding Eco-System and Well-Being
 <br>
 Sub-Theme:  Technological innovation for ecosystem and health 
 
-Slides Light Mode:
-Slides Dark Mode: 
+Slides Light Mode: [PDF](https://github.com/yednapg/smart-mini-gardern/blob/64686d3ff5995ac54382ca3e5d23633f8dde67d8/Light%20Mode.pdf)
+<br>
+Slides Dark Mode: [PDF](https://github.com/yednapg/smart-mini-gardern/blob/64686d3ff5995ac54382ca3e5d23633f8dde67d8/Dark%20Mode.pdf)
 
 ### Problem
 - Inefficient Resource Management
