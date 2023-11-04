@@ -1,4 +1,4 @@
-# Smart Mini Garderns
+# Smart Mini Gardern
 Integrating IoT Technology for Optimal Mini-Garden Health: A Smart Approach to Eco-System Understanding
 
 A Science Fair project for the National Children's Science Congress (NCSC)
